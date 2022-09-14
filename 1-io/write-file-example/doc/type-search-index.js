@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"io","l":"Example"},{"p":"io","l":"Main"},{"p":"io","l":"ReadObjectExample"},{"p":"io","l":"Restaurant"},{"p":"io","l":"RestaurantDataSource"},{"p":"io","l":"ScannerExample"},{"p":"io","l":"WriteExample"},{"p":"io","l":"WriteObjectExample"},{"p":"io","l":"WriteRestaurantTextExample"}];updateSearchResults();
